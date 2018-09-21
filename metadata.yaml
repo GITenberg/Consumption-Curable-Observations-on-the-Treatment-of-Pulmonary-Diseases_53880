@@ -1,0 +1,24 @@
+_repo: Consumption-Curable-Observations-on-the-Treatment-of-Pulmonary-Diseases_53880
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Congreve, Henry
+    gutenberg_agent_id: '47594'
+    url: http://www.gutenberg.org/2009/agents/47594
+description: ''
+gutenberg_issued: '2017-01-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53880'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Influenza -- Treatment'
+- !lcsh 'Tuberculosis -- Treatment'
+- !lcsh 'Respiratory organs -- Diseases -- Treatment'
+- !lcc 'RC'
+- GITenberg
+title: 'Consumption Curable: Observations on the Treatment of Pulmonary Diseases'
+url: http://www.gutenberg.org/ebooks/53880
