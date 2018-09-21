@@ -1,11 +1,16 @@
 _repo: Consumption-Curable-Observations-on-the-Treatment-of-Pulmonary-Diseases_53880
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 53880-h/images/coverb.jpg
 creator:
   author:
     agent_name: Congreve, Henry
     gutenberg_agent_id: '47594'
     url: http://www.gutenberg.org/2009/agents/47594
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/53880#Consumption-Curable-Observations-on-the-Treatment-of-Pulmonary-Diseases
 gutenberg_issued: '2017-01-03'
 gutenberg_type: Text
 identifiers:
